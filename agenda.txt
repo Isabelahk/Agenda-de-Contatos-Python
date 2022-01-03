@@ -1,0 +1,4 @@
+02;Joao;(32)999556655;joao@gmail.com 
+03;Ana ;(53)999442244;ana@gmail.com 
+04;Jose;(71)999113311;jose@gmail.com 
+05;Catarina;(61)999667766;catarina@gmail.com 
